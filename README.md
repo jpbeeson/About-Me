@@ -2,6 +2,8 @@
   An "About Me" section created to practice HTML/CSS.
   <br>
   https://jpbeeson.github.io/About-Me/
+
+  ![](img/demo1.png)
   ## Table of Contents
   * [Developer's Information](#devInfo)
   * [License](#license)
